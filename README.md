@@ -1,17 +1,10 @@
 <div align="center">
-
-![banner](banner.png)
-
+<img src="[https://raw.githubusercontent.com/sukrates/sukrates/main/banner.png](https://github.com/sukrates49/sukrates49/blob/main/Add%20a%20subheading.png)" alt="hi! i'm sukrates." width="100%"/>
 </div>
-
 <div align="center">
-
 <sub><i>sukrates on the internet. sukriti in real life.</i></sub>
-
 </div>
-
 <br>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sukritisinghkatiyar-1a4a4e?style=flat-square&logo=linkedin&logoColor=d4cdb8)](https://www.linkedin.com/in/sukriti-singh-katiyar-604024332)&nbsp;
