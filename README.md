@@ -1,6 +1,7 @@
-<div align="center">
-<img src="[https://raw.githubusercontent.com/sukrates/sukrates/main/banner.png](https://github.com/sukrates49/sukrates49/blob/main/Add%20a%20subheading.png)" alt="hi! i'm sukrates." width="100%"/>
-</div>
+<p align="center">
+  <img src="Add a subheading.png" width="100%" />
+</p>
+
 <div align="center">
 <sub><i>sukrates on the internet. sukriti in real life.</i></sub>
 </div>
