@@ -14,8 +14,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sukrates-1a4a4e?style=flat-square&logo=linkedin&logoColor=d4cdb8)](https://linkedin.com/in/your-handle)&nbsp;
-[![Email](https://img.shields.io/badge/Email-say%20hello-0d2b2e?style=flat-square&logo=gmail&logoColor=d4cdb8)](mailto:your@email.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sukritisinghkatiyar-1a4a4e?style=flat-square&logo=linkedin&logoColor=d4cdb8)](https://www.linkedin.com/in/sukriti-singh-katiyar-604024332)&nbsp;
+[![Email](https://img.shields.io/badge/Email-say%20hello-0d2b2e?style=flat-square&logo=gmail&logoColor=d4cdb8)](mailto:sukriti.skatiyar@gmail.com)&nbsp;
 [![HBTU](https://img.shields.io/badge/HBTU%20Kanpur-Biotechnology%20'28-2a6b6e?style=flat-square&logoColor=d4cdb8)](https://hbtu.ac.in)
 
 </div>
@@ -126,7 +126,7 @@ or just want to exchange notes on a rabbit hole you've been down — I'm genuine
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Find%20me%20on-LinkedIn-1a4a4e?style=for-the-badge&logo=linkedin&logoColor=d4cdb8)](https://linkedin.com/in/your-handle)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Find%20me%20on-LinkedIn-1a4a4e?style=for-the-badge&logo=linkedin&logoColor=d4cdb8)]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/sukriti-singh-katiyar-604024332))&nbsp;
 [![Email](https://img.shields.io/badge/Write%20me%20an-Email-0d2b2e?style=for-the-badge&logo=gmail&logoColor=d4cdb8)](mailto:your@email.com)
 
 </div>
